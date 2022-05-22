@@ -17,6 +17,7 @@ Simulation of the Spotify music app using Java, JDBC and OOP for my second year,
         - Episodes
           - Commands
     - Songs
+      - Commands
 3. ViewMode where each class has an array list with the subscribers
   - DesktopApplication
   - MobileApplication
