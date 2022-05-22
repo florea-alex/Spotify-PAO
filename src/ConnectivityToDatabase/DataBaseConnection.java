@@ -32,21 +32,3 @@ public class DataBaseConnection {
         return dataBaseConnection;
     }
 }
-//
-//public class DataBaseConnection {
-//    private static Connection connection;
-//
-//    private DataBaseConnection() {
-//
-//    }
-//    public static Connection getDataBaseConnectionIstance() throws SQLException {
-//        if(connection == null) {
-//            String url = "jdbc:mysql://localhost:3306/jdbc-spotify-pao";
-//            String userName = "root";
-//            String password = "Afiecainelemeu1!";
-//
-//            connection = DriverManager.getConnection(url, userName, password);
-//        }
-//        return connection;
-//    }
-//}
